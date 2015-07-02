@@ -120,7 +120,7 @@ class PayPalPS implements IPaymentSystem
 
     public function getPSName()
     {
-        return 'BrainTree';
+        return 'PayPal';
     }
 
     public function getErrors()
