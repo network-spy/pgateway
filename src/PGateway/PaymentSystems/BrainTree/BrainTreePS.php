@@ -71,6 +71,11 @@ class BrainTreePS implements IPaymentSystem {
         return $paymentId;
     }
 
+    public function getPSName()
+    {
+        return 'BrainTree';
+    }
+
     public function getErrors()
     {
         return $this->errorMessages;
