@@ -1,7 +1,7 @@
 {
-    "name":"slavik/pgateway",
+    "name":"network-spy/pgateway",
     "type": "library",
-    "version":"1.0.0",
+    "version":"1.0",
     "description": "PGateway is php library that works with payment systems",
     "keywords": ["pgateway", "payment", "money"],
     "license": "Free",
